@@ -15,7 +15,7 @@ export default async function MealPage() {
           Choose Your Favourite Recipe and Cook It Yourself. It is easy and fun
         </p>
         <p className={styles.cta}>
-          <Link href="/meals/share"> Share Your Facourite Recepie</Link>
+          <Link href="/meals/share"> Share Your Favourite Recepie</Link>
         </p>
       </header>
       <main className={styles.main}>
